@@ -129,4 +129,4 @@ Currently debugging Gazebo joint physics behavior and preparing for:
 
 # Screenshot
 
-(Add Gazebo screenshots here)
+(https://github.com/a1758/humanoid-head-ros2/blob/main/gazebo_simulation.png?raw=true)
