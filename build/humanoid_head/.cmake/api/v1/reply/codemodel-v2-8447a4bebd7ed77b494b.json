@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-5b1b4f9726bf91a4281f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "humanoid_head",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_humanoid_head_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_humanoid_head_egg-46bce7e049b9eff78fdb.json",
+					"name" : "ament_cmake_python_build_humanoid_head_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_humanoid_head::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_humanoid_head-215717eedb3c6efed600.json",
+					"name" : "ament_cmake_python_symlink_humanoid_head",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_humanoid_head_setup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_humanoid_head_setup-da3e35238a865c71d73f.json",
+					"name" : "ament_cmake_python_symlink_humanoid_head_setup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "humanoid_head_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-humanoid_head_uninstall-c4dc496b0319557506f5.json",
+					"name" : "humanoid_head_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-be9bfb37b12443af4905.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zjq/\u684c\u9762/humanoid_head_project/build/humanoid_head",
+		"source" : "/home/zjq/\u684c\u9762/humanoid_head_project/src/humanoid_head"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

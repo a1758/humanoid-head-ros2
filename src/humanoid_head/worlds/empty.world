@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="empty">
+    <physics type="ode">
+      <max_step_size>0.001</max_step_size>
+      <real_time_factor>1.0</real_time_factor>
+      <real_time_update_rate>1000</real_time_update_rate>
+    </physics>
+
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- Ambient light so shadows don't hide details -->
+    <light name="ambient" type="directional">
+      <pose>2 2 2 0 0 0</pose>
+      <diffuse>0.8 0.8 0.8 1.0</diffuse>
+    </light>
+  </world>
+</sdf>

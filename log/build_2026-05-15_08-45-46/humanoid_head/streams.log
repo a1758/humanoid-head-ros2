@@ -1,0 +1,52 @@
+[0.015s] Invoking command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake /home/zjq/桌面/humanoid_head_project/src/humanoid_head -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zjq/桌面/humanoid_head_project/install/humanoid_head
+[0.296s] -- The C compiler identification is GNU 11.4.0
+[0.472s] -- The CXX compiler identification is GNU 11.4.0
+[0.487s] -- Detecting C compiler ABI info
+[0.576s] -- Detecting C compiler ABI info - done
+[0.582s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.583s] -- Detecting C compile features
+[0.584s] -- Detecting C compile features - done
+[0.588s] -- Detecting CXX compiler ABI info
+[0.683s] -- Detecting CXX compiler ABI info - done
+[0.690s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.691s] -- Detecting CXX compile features
+[0.691s] -- Detecting CXX compile features - done
+[0.697s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.859s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.937s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.188s] -- Configuring done
+[1.193s] -- Generating done
+[1.196s] -- Build files have been written to: /home/zjq/桌面/humanoid_head_project/build/humanoid_head
+[1.200s] Invoked command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake /home/zjq/桌面/humanoid_head_project/src/humanoid_head -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zjq/桌面/humanoid_head_project/install/humanoid_head
+[1.202s] Invoking command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --build /home/zjq/桌面/humanoid_head_project/build/humanoid_head -- -j12 -l12
+[1.269s] Built target ament_cmake_python_symlink_humanoid_head_setup
+[1.269s] Built target ament_cmake_python_symlink_humanoid_head
+[1.541s] running egg_info
+[1.541s] creating humanoid_head.egg-info
+[1.541s] writing humanoid_head.egg-info/PKG-INFO
+[1.542s] writing dependency_links to humanoid_head.egg-info/dependency_links.txt
+[1.542s] writing top-level names to humanoid_head.egg-info/top_level.txt
+[1.542s] writing manifest file 'humanoid_head.egg-info/SOURCES.txt'
+[1.546s] reading manifest file 'humanoid_head.egg-info/SOURCES.txt'
+[1.546s] writing manifest file 'humanoid_head.egg-info/SOURCES.txt'
+[1.581s] Built target ament_cmake_python_build_humanoid_head_egg
+[1.595s] Invoked command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --build /home/zjq/桌面/humanoid_head_project/build/humanoid_head -- -j12 -l12
+[1.607s] Invoking command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --install /home/zjq/桌面/humanoid_head_project/build/humanoid_head
+[1.616s] -- Install configuration: ""
+[1.617s] -- Execute custom install script
+[1.617s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/pythonpath.sh
+[1.628s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/pythonpath.dsv
+[1.640s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/PKG-INFO
+[1.650s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/SOURCES.txt
+[1.662s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/dependency_links.txt
+[1.673s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/top_level.txt
+[1.684s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/__init__.py
+[1.696s] CMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:209 (message):
+[1.696s]   ament_cmake_symlink_install_programs() can't find
+[1.696s]   '/home/zjq/桌面/humanoid_head_project/src/humanoid_head/scripts/expression_engine.py'
+[1.696s] Call Stack (most recent call first):
+[1.696s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:334 (ament_cmake_symlink_install_programs)
+[1.696s]   cmake_install.cmake:46 (include)
+[1.696s] 
+[1.696s] 
+[1.699s] Invoked command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --install /home/zjq/桌面/humanoid_head_project/build/humanoid_head

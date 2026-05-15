@@ -1,0 +1,12 @@
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/uninstall.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/humanoid_head_uninstall.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/ament_cmake_python_symlink_humanoid_head.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/ament_cmake_python_symlink_humanoid_head_setup.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/ament_cmake_python_build_humanoid_head_egg.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/test.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/edit_cache.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/rebuild_cache.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/list_install_components.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/install.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/install/local.dir
+/home/zjq/桌面/humanoid_head_project/build/humanoid_head/CMakeFiles/install/strip.dir

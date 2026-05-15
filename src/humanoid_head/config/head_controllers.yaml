@@ -1,0 +1,18 @@
+/**:
+  ros__parameters:
+    update_rate: 50
+    use_sim_time: true
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+    head_controller:
+      type: position_controllers/JointGroupPositionController
+
+head_controller:
+  ros__parameters:
+    joints:
+      - left_eyelid_joint
+      - right_eyelid_joint
+      - jaw_joint
+      - left_smile_joint
+      - right_smile_joint
+    interface_name: position

@@ -1,0 +1,47 @@
+[0.016s] Invoking command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --build /home/zjq/桌面/humanoid_head_project/build/humanoid_head -- -j12 -l12
+[0.103s] Built target ament_cmake_python_symlink_humanoid_head_setup
+[0.104s] Built target ament_cmake_python_symlink_humanoid_head
+[0.406s] running egg_info
+[0.406s] writing humanoid_head.egg-info/PKG-INFO
+[0.406s] writing dependency_links to humanoid_head.egg-info/dependency_links.txt
+[0.407s] writing top-level names to humanoid_head.egg-info/top_level.txt
+[0.409s] reading manifest file 'humanoid_head.egg-info/SOURCES.txt'
+[0.410s] writing manifest file 'humanoid_head.egg-info/SOURCES.txt'
+[0.447s] Built target ament_cmake_python_build_humanoid_head_egg
+[0.463s] Invoked command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --build /home/zjq/桌面/humanoid_head_project/build/humanoid_head -- -j12 -l12
+[0.476s] Invoking command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --install /home/zjq/桌面/humanoid_head_project/build/humanoid_head
+[0.484s] -- Install configuration: ""
+[0.485s] -- Execute custom install script
+[0.485s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/urdf/humanoid_head.urdf
+[0.485s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/config/head_controllers.yaml
+[0.486s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/launch/head_sim.launch.py
+[0.486s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/worlds/empty.world
+[0.486s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/pythonpath.sh
+[0.486s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/pythonpath.dsv
+[0.487s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/PKG-INFO
+[0.487s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/SOURCES.txt
+[0.487s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/dependency_links.txt
+[0.487s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/top_level.txt
+[0.488s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/__init__.py
+[0.488s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/cli_handler.py
+[0.488s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/expression_defs.py
+[0.488s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/expression_engine.py
+[0.488s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/state_machine.py
+[0.488s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/lib/humanoid_head/expression_engine
+[0.489s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/ament_index/resource_index/package_run_dependencies/humanoid_head
+[0.489s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/ament_index/resource_index/parent_prefix_path/humanoid_head
+[0.489s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/ament_prefix_path.sh
+[0.489s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/ament_prefix_path.dsv
+[0.490s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/path.sh
+[0.490s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/path.dsv
+[0.490s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.bash
+[0.490s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.sh
+[0.490s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.zsh
+[0.491s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.dsv
+[0.491s] -- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/package.dsv
+[0.503s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/ament_index/resource_index/packages/humanoid_head
+[0.503s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/cmake/humanoid_headConfig.cmake
+[0.503s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/cmake/humanoid_headConfig-version.cmake
+[0.503s] -- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/package.xml
+[0.534s] Listing '/home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head'...
+[0.542s] Invoked command in '/home/zjq/桌面/humanoid_head_project/build/humanoid_head' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjq/ros2_ws/install/lpx_bridge:/opt/ros/humble /usr/bin/cmake --install /home/zjq/桌面/humanoid_head_project/build/humanoid_head

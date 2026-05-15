@@ -1,0 +1,40 @@
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zjq/桌面/humanoid_head_project/build/humanoid_head
+Built target ament_cmake_python_symlink_humanoid_head_setup
+Built target ament_cmake_python_symlink_humanoid_head
+running egg_info
+writing humanoid_head.egg-info/PKG-INFO
+writing dependency_links to humanoid_head.egg-info/dependency_links.txt
+writing top-level names to humanoid_head.egg-info/top_level.txt
+reading manifest file 'humanoid_head.egg-info/SOURCES.txt'
+writing manifest file 'humanoid_head.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_humanoid_head_egg
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/pythonpath.sh
+-- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/pythonpath.dsv
+-- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/PKG-INFO
+-- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/SOURCES.txt
+-- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/dependency_links.txt
+-- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head-0.1.0-py3.10.egg-info/top_level.txt
+-- Up-to-date symlink: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/__init__.py
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/ament_index/resource_index/package_run_dependencies/humanoid_head
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/ament_index/resource_index/parent_prefix_path/humanoid_head
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/ament_prefix_path.sh
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/ament_prefix_path.dsv
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/path.sh
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/environment/path.dsv
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.bash
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.sh
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.zsh
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/local_setup.dsv
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/package.dsv
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/ament_index/resource_index/packages/humanoid_head
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/cmake/humanoid_headConfig.cmake
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/cmake/humanoid_headConfig-version.cmake
+-- Symlinking: /home/zjq/桌面/humanoid_head_project/install/humanoid_head/share/humanoid_head/package.xml
+Listing '/home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head'...
+Compiling '/home/zjq/桌面/humanoid_head_project/install/humanoid_head/local/lib/python3.10/dist-packages/humanoid_head/__init__.py'...

@@ -1,0 +1,8 @@
+CMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:209 (message):
+  ament_cmake_symlink_install_programs() can't find
+  '/home/zjq/桌面/humanoid_head_project/src/humanoid_head/scripts/expression_engine.py'
+Call Stack (most recent call first):
+  ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:334 (ament_cmake_symlink_install_programs)
+  cmake_install.cmake:46 (include)
+
+

@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+humanoid_head/__init__.py
+humanoid_head/cli_handler.py
+humanoid_head/expression_defs.py
+humanoid_head/expression_engine.py
+humanoid_head/state_machine.py
+humanoid_head.egg-info/PKG-INFO
+humanoid_head.egg-info/SOURCES.txt
+humanoid_head.egg-info/dependency_links.txt
+humanoid_head.egg-info/top_level.txt
